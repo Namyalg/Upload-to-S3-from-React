@@ -7,6 +7,7 @@ Steps to follow
 1. Create the AWS S3 bucket as mentioned [here](https://medium.com/p/fbd8f0b26f5/e)
 2. Clone this repository
 3. Run `npm install`
+
    The `react-aws-s3` package, has been used to facilitate the file uploads to th S3 bucket
 4. Create a `.env` file at the root of the repository and add the details in the following format
 
