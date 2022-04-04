@@ -13,7 +13,7 @@ Steps to follow
 
     ```
     REACT_APP_BUCKET_NAME=your-bucket-name
-    REACT_APP_REGION=us-west-2 (eg: add the location of your bucket)
+    REACT_APP_REGION=add the location of your bucket (eg: us-west-2)
     REACT_APP_ACCESS=got-from-the-security-credentials
     REACT_APP_SECRET=got-from-the-security-credentials
     ```
