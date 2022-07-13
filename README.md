@@ -4,7 +4,7 @@ An easy to guide to setup an AWS S3 bucket and upload files to it from a React f
 
 Steps to follow
 
-1. Create the AWS S3 bucket as mentioned [here](https://medium.com/p/fbd8f0b26f5/e)
+1. Create the AWS S3 bucket as mentioned [here](https://medium.com/p/fbd8f0b26f5/)
 2. Clone this repository
 3. Run `npm install`
 
